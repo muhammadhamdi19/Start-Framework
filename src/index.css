@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.active{
+  @apply  bg-[#1ABC9C] rounded-lg
+}
